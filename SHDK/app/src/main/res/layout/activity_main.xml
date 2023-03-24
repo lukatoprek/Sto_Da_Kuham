@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/background"
+    tools:context=".MainActivity">
+
+
+    <ImageView
+        android:id="@+id/LogoImageView"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_marginTop="45dp"
+        android:layout_marginBottom="60dp"
+        android:contentDescription="@string/Logo"
+        app:layout_constraintBottom_toTopOf="@+id/ZapocniButton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/logoImageView"
+        app:srcCompat="@mipmap/cookingguy" />
+
+    <ImageView
+        android:id="@+id/logoImageView"
+        android:layout_width="234dp"
+        android:layout_height="213dp"
+        android:layout_marginTop="15dp"
+        android:contentDescription="@string/Logo"
+        app:layout_constraintBottom_toTopOf="@+id/LogoImageView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.487"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.471"
+        app:srcCompat="@mipmap/shdk_logo_final_final" />
+
+    <Button
+        android:id="@+id/ZapocniButton"
+        android:layout_width="178dp"
+        android:layout_height="54dp"
+        android:layout_marginTop="73dp"
+        android:layout_marginBottom="40dp"
+        android:background="@drawable/round_button"
+        android:backgroundTint="#D6FF79"
+        android:fontFamily="@font/open_sans_semibold"
+        android:text="@string/zapocni"
+        android:textAlignment="center"
+        android:textColor="#202E30"
+        android:textSize="24dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/LogoImageView" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/text_background"
+        android:paddingVertical="5dp"
+        android:paddingHorizontal="15dp"
+        android:layout_marginStart="176dp"
+        android:layout_marginTop="71dp"
+        android:layout_marginEnd="177dp"
+        android:layout_marginBottom="42dp"
+        android:fontFamily="@font/open_sans_light"
+        android:text="Saznajte što ćete danas kuhati u samo dva klika!"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/ZapocniButton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/LogoImageView" />
+</androidx.constraintlayout.widget.ConstraintLayout>

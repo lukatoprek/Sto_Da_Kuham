@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Što Da Kuham?</string>
+    <string name="zapocni">Započni</string>
+    <string name="Logo">Logo</string>
+    <string-array name="kategorije">
+        <item>Sve</item>
+        <item>Varivo</item>
+        <item>Tjestenina</item>
+        <item>Meso</item>
+        <item>Salate</item>
+        <item>Deserti</item>
+        <item>Ostalo</item>
+    </string-array>
+    <string name="pica"><a href="https://www.coolinarika.com/recept/najbolja-pizza-952902d2-638a-11eb-810e-0242ac120014">https://www.coolinarika.com/recept/najbolja-pizza-952902d2-638a-11eb-810e-0242ac120014</a></string>
+    <string name="sarma"><a href="https://www.coolinarika.com/recept/najbolji-recept-za-sarmu-6d2c9d58-6488-11eb-86a5-0242ac1200cd">https://www.coolinarika.com/recept/najbolji-recept-za-sarmu-6d2c9d58-6488-11eb-86a5-0242ac1200cd</a></string>
+    <string name="sataras"><a href="https://www.coolinarika.com/recept/sataras-moje-mame-a68cd1d6-6400-11eb-a136-0242ac120023">https://www.coolinarika.com/recept/sataras-moje-mame-a68cd1d6-6400-11eb-a136-0242ac120023</a></string>
+    <string name="cobanovapita"><a href="https://receptoteka.rs/recept/prikaz/11078">https://receptoteka.rs/recept/prikaz/11078</a></string>
+    <string name="pesto"><a href="https://www.coolinarika.com/recept/spageti-s-pestom-genovese-c71837ea-6182-11eb-a8a1-0242ac120034">https://www.coolinarika.com/recept/spageti-s-pestom-genovese-c71837ea-6182-11eb-a8a1-0242ac120034</a></string>
+    <string name="tortilje"><a href="https://www.coolinarika.com/recept/tortilje-s-piletinom-i-grahom-cdce7d38-6182-11eb-9939-0242ac120031">https://www.coolinarika.com/recept/tortilje-s-piletinom-i-grahom-cdce7d38-6182-11eb-9939-0242ac120031</a></string>
+    <string name="kiflicescokoladom"><a href="https://www.coolinarika.com/recept/kiflice-od-lisnatog-tijesta-df6b6f9e-63f1-11eb-83e9-0242ac120056">https://www.coolinarika.com/recept/kiflice-od-lisnatog-tijesta-df6b6f9e-63f1-11eb-83e9-0242ac120056</a></string>
+    <string name="krembrule"><a href="https://www.coolinarika.com/recept/crema-catalana-8211-katalonska-krema-be58200a-63be-11eb-a337-0242ac12003b">https://www.coolinarika.com/recept/crema-catalana-8211-katalonska-krema-be58200a-63be-11eb-a337-0242ac12003b</a></string>
+    <string name="cezarsalata"><a href="https://www.coolinarika.com/recept/cezar-salata-334b2ef8-6382-11eb-83cc-0242ac120053">https://www.coolinarika.com/recept/cezar-salata-334b2ef8-6382-11eb-83cc-0242ac120053</a></string>
+    <string name="losossalata"><a href="https://www.coolinarika.com/recept/salata-s-lososom-d3ca77d2-6182-11eb-96c0-0242ac120036">https://www.coolinarika.com/recept/salata-s-lososom-d3ca77d2-6182-11eb-96c0-0242ac120036</a></string>
+    <string name="burek"><a href="https://www.coolinarika.com/recept/burek-816bf79a-6498-11eb-80fa-0242ac120093">https://www.coolinarika.com/recept/burek-816bf79a-6498-11eb-80fa-0242ac120093</a></string>
+    <string name="fis"><a href="https://www.coolinarika.com/recept/fis-df89c87c-63f1-11eb-8336-0242ac12001d">https://www.coolinarika.com/recept/fis-df89c87c-63f1-11eb-8336-0242ac12001d</a></string>
+    <string name="rizoto"><a href="https://www.coolinarika.com/recept/rizoto-od-piletine-1668a446-644a-11eb-b268-0242ac120088">https://www.coolinarika.com/recept/rizoto-od-piletine-1668a446-644a-11eb-b268-0242ac120088</a></string>
+    <string name="becki"><a href="https://www.coolinarika.com/recept/becki-odrezak-wiener-schnitzel-ce838516-6182-11eb-9cd3-0242ac120042">https://www.coolinarika.com/recept/becki-odrezak-wiener-schnitzel-ce838516-6182-11eb-9cd3-0242ac120042</a></string>
+    <string name="punjenepaprike"><a href="https://www.coolinarika.com/recept/punjene-paprike-moje-mame-bd636688-63c7-11eb-825d-0242ac120054">https://www.coolinarika.com/recept/punjene-paprike-moje-mame-bd636688-63c7-11eb-825d-0242ac120054</a></string>
+    <string name="sutlijas"><a href="https://www.coolinarika.com/recept/sutlijas-7e4e75e0-6440-11eb-8df1-0242ac1200c8">https://www.coolinarika.com/recept/sutlijas-7e4e75e0-6440-11eb-8df1-0242ac1200c8</a></string>
+    <string name="krempita"><a href="https://www.coolinarika.com/recept/krempita-68b636e0-63d8-11eb-af75-0242ac12001b">https://www.coolinarika.com/recept/krempita-68b636e0-63d8-11eb-af75-0242ac12001b</a></string>
+    <string name="knedlesasljivama"><a href="https://www.coolinarika.com/recept/knedle-sa-sljivama-a4a5b240-63c7-11eb-a85b-0242ac12001b">https://www.coolinarika.com/recept/knedle-sa-sljivama-a4a5b240-63c7-11eb-a85b-0242ac12001b</a></string>
+    <string name="kelj"><a href="https://www.coolinarika.com/recept/varivo-od-kelja-sa-fasiranim-mesom-36955786-638d-11eb-8b44-0242ac120026">https://www.coolinarika.com/recept/varivo-od-kelja-sa-fasiranim-mesom-36955786-638d-11eb-8b44-0242ac120026</a></string>
+    <string name="grah"><a href="https://www.coolinarika.com/recept/lagani-grah-c64fe5d0-6446-11eb-abfa-0242ac1200b1">https://www.coolinarika.com/recept/lagani-grah-c64fe5d0-6446-11eb-abfa-0242ac1200b1</a></string>
+    <string name="krmenadleuvinu"><a href="https://domacirecepti.net/krmenadle-i-krompir-iz-rerne/">https://domacirecepti.net/krmenadle-i-krompir-iz-rerne/</a></string>
+    <string name="mesnarolada"><a href="https://www.coolinarika.com/recept/mesna-rolada-3aa6df40-63e5-11eb-9519-0242ac120029">https://www.coolinarika.com/recept/mesna-rolada-3aa6df40-63e5-11eb-9519-0242ac120029</a></string>
+    <string name="carbonara"><a href="https://www.coolinarika.com/recept/spaghetti-carbonara-d1d10036-64a2-11eb-962b-0242ac12008f">https://www.coolinarika.com/recept/spaghetti-carbonara-d1d10036-64a2-11eb-962b-0242ac12008f</a></string>
+    <string name="bolognese"><a href="https://www.coolinarika.com/recept/bolognese-bolonjez-umak-321ee21c-6496-11eb-a950-0242ac120034">https://www.coolinarika.com/recept/bolognese-bolonjez-umak-321ee21c-6496-11eb-a950-0242ac120034</a></string>
+    <string name="musaka"><a href="https://www.coolinarika.com/recept/musaka-od-patlidzana-c5dd89fc-6182-11eb-ab69-0242ac12004d">https://www.coolinarika.com/recept/musaka-od-patlidzana-c5dd89fc-6182-11eb-ab69-0242ac12004d</a></string>
+    <string name="proja"><a href="https://www.coolinarika.com/recept/proja-ona-stara-domaca-6055750a-647e-11eb-89d4-0242ac120036">https://www.coolinarika.com/recept/proja-ona-stara-domaca-6055750a-647e-11eb-89d4-0242ac120036</a></string>
+    <string name="popara"><a href="https://www.coolinarika.com/recept/sutlijas-7e4e75e0-6440-11eb-8df1-0242ac1200c8">https://www.coolinarika.com/recept/popara-0da75f1c-6389-11eb-b154-0242ac120062</a></string>
+    <string name="tunasalata"><a href="https://www.coolinarika.com/recept/salate-s-tunjevinom-raznorazne-78b99430-6390-11eb-a928-0242ac120045">https://www.coolinarika.com/recept/salate-s-tunjevinom-raznorazne-78b99430-6390-11eb-a928-0242ac120045</a></string>
+    <string name="piletinasalata"><a href="https://www.coolinarika.com/recept/salata-sa-piletinom-264628f2-6382-11eb-8c5f-0242ac12005d">https://www.coolinarika.com/recept/salata-sa-piletinom-264628f2-6382-11eb-8c5f-0242ac12005d</a></string>
+    <string name="sopska"><a href="https://www.coolinarika.com/recept/sopska-salata-d0a05d1a-6182-11eb-8a1c-0242ac120026">https://www.coolinarika.com/recept/sopska-salata-d0a05d1a-6182-11eb-8a1c-0242ac120026</a></string>
+</resources>
